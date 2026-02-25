@@ -1,8 +1,6 @@
 # Nuclear
 Helpful or informative scripts for Nuclear/Engineering
 
-1. 
-
 # ENDF/B Nuclear Data Library Comparison
 
 Compares OpenMC criticality and flux spectrum predictions for the Godiva 
